@@ -1,0 +1,9 @@
+{
+  "version": 1,
+  "vertexformat": "PosNormSkinTex",
+  "shader": "Skinned",
+  "textures": [],
+  "specularPower": 100.0,
+  "vertices": [],
+  "indices": []
+}

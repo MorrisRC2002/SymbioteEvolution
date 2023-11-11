@@ -1,0 +1,15 @@
+{
+	"TextMap":{
+		"PauseTitle": "PAUSED",
+		"ResumeButton": "Resume",
+		"QuitButton": "Quit",
+		"QuitText": "Do you want to quit?",
+		"OKButton": "OK",
+		"CancelButton": "Cancel",
+		"DeathTitle": "You Died!",
+		"WinTitle": "You Win!",
+		"InventoryTitle": "Inventory Check",
+		"ShoeButton": "Shoe Item",
+		"GloveButton": "Glove Item"
+	}
+}
